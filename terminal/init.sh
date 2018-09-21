@@ -11,3 +11,5 @@ for exportToSource in $DOTFILES_PATH/terminal/_exports/*; do source $exportToSou
 function cdd {
   cd "$(ls -d -- */ | fzf)"
 }
+
+# eval $(dinghy env)

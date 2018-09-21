@@ -1,4 +1,4 @@
-export MY_SSH_USERNAME='rafa.gomez'
+export MY_SSH_USERNAME='sebastianparra'
 
 export JAVA_HOME='/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/'
 export SBT_OPTS='-Xms512M -Xmx1024M -Xss2M -XX:MaxMetaspaceSize=512m -XX:ReservedCodeCacheSize=256M -Dfile.encoding=UTF8'
